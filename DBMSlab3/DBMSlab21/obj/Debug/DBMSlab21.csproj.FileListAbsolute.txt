@@ -1,0 +1,9 @@
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\obj\Debug\DBMSlab21.csproj.AssemblyReference.cache
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\obj\Debug\DBMSlab21.Properties.Resources.resources
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\obj\Debug\DBMSlab21.csproj.GenerateResource.cache
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\obj\Debug\DBMSlab21.csproj.CoreCompileInputs.cache
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\bin\Debug\DBMSlab21.exe.config
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\bin\Debug\DBMSlab21.exe
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\bin\Debug\DBMSlab21.pdb
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\obj\Debug\DBMSlab21.exe
+C:\Users\rzvbo\source\repos\DBMSlab21\DBMSlab21\obj\Debug\DBMSlab21.pdb

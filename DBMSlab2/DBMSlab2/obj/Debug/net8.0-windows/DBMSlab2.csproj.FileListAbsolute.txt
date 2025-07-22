@@ -1,0 +1,6 @@
+C:\Users\rzvbo\source\repos\DBMSlab2\DBMSlab2\obj\Debug\net8.0-windows\BlockchainDatabaseApp.Form1.resources
+C:\Users\rzvbo\source\repos\DBMSlab2\DBMSlab2\obj\Debug\net8.0-windows\DBMSlab2.csproj.GenerateResource.cache
+C:\Users\rzvbo\source\repos\DBMSlab2\DBMSlab2\obj\Debug\net8.0-windows\DBMSlab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzvbo\source\repos\DBMSlab2\DBMSlab2\obj\Debug\net8.0-windows\DBMSlab2.AssemblyInfoInputs.cache
+C:\Users\rzvbo\source\repos\DBMSlab2\DBMSlab2\obj\Debug\net8.0-windows\DBMSlab2.AssemblyInfo.cs
+C:\Users\rzvbo\source\repos\DBMSlab2\DBMSlab2\obj\Debug\net8.0-windows\DBMSlab2.csproj.CoreCompileInputs.cache
