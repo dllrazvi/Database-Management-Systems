@@ -1,0 +1,14 @@
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\bin\Debug\net8.0\DBMS - sem2.exe
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\bin\Debug\net8.0\DBMS - sem2.deps.json
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\bin\Debug\net8.0\DBMS - sem2.runtimeconfig.json
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\bin\Debug\net8.0\DBMS - sem2.dll
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\bin\Debug\net8.0\DBMS - sem2.pdb
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\DBMS - sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\DBMS - sem2.AssemblyInfoInputs.cache
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\DBMS - sem2.AssemblyInfo.cs
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\DBMS - sem2.csproj.CoreCompileInputs.cache
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\DBMS - sem2.dll
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\refint\DBMS - sem2.dll
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\DBMS - sem2.pdb
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\DBMS - sem2.genruntimeconfig.cache
+C:\Users\rzvbo\source\repos\DBMS - sem2\DBMS - sem2\obj\Debug\net8.0\ref\DBMS - sem2.dll
